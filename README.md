@@ -1,2 +1,2 @@
-# DataVisualizationProject
-Data visualization project using R
+# Data Visualization Project
+Data analysis and visualization using R
